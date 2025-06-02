@@ -104,7 +104,7 @@ Based on user feedback, the most desired features were:
 
 The analysis of survey results is summarized in Figure 1 below.
 
-![Figure 1: Survey Analysis Chart](images/fig1.png)
+![Figure 1: Survey Analysis Chart](pictures/.analysis.png)
 
 *Figure Explanation:*  
 - The pie chart (Figure 1) shows that over 80% of respondents have never encountered a reliable multi-outlet power monitoring solution.  
